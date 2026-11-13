@@ -1,0 +1,5 @@
+[
+  {"tag": "P-101", "name": "Coolant pump", "last_service": "2026-10-16", "interval": 400, "unit": "hours", "hours_per_day": 24},
+  {"tag": "C-220", "name": "Air compressor", "last_service": "2026-08-15", "interval": 90, "unit": "days"},
+  {"tag": "T-305", "name": "Cooling tower fan", "last_service": "2026-06-23", "interval": 180, "unit": "days"}
+]
